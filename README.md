@@ -3,8 +3,8 @@ Ultrasonic Robot developed during the Computing and Automation course.
 
 ## 😽 PHOTOS
 <p align="center">
-  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_1.png"/>
-  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_2.png"/>
+  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_1.jpg"/>
+  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_2.jpg"/>
 </p>
 
 ## 📟 LIST OF MATERIALS
@@ -26,8 +26,8 @@ Ultrasonic Robot developed during the Computing and Automation course.
 
 ## ⚙️ CIRCUIT 
 <p align="center">
-  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_6.png"/>
-  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_7.png"/>
+  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_6.jpg"/>
+  <img src="https://github.com/rharcosta/ultrasonic-robot/blob/main/Fotos/img_7.webp"/>
 </p>
 
 ## 📹 OPERATION VIDEO
